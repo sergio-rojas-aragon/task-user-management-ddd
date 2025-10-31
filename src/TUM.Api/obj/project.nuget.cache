@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1n2wtfi1HM=",
+  "success": true,
+  "projectFilePath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\TUM.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SergioRyzen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\SergioRyzen\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
