@@ -18,7 +18,7 @@ namespace TUM.Domain.Entities
         public Usuario Usuario { get; set; } = null!;
 
         //estado
-        public int EstadoId { get; set; }
+        public int EstadoTareaId { get; set; }
         public EstadoTarea estadoTarea { get; set; } = null!;
 
         //cliente

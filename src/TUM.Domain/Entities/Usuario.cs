@@ -12,6 +12,8 @@ namespace TUM.Domain.Entities
         // Relacion uno a muchos
         public ICollection<Tarea> Tareas { get; set; } = new List<Tarea>();
 
+        public List<Pedido> PedidosCreados { get; set; } = new();
+
         // claves foraneas
         public int RolId { get; set; }
         public Rol Rol { get; set; } = null!;

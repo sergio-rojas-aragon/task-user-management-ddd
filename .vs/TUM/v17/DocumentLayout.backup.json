@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\tum.unittests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\tum.unittests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\validators\\creaestadotareavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\validators\\creaestadotareavalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\validators\\crearestadotareadtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\validators\\crearestadotareadtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\usecases\\crearestadotareahandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\usecases\\crearestadotareahandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\usecases\\crearpedidohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\usecases\\crearpedidohandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\tum.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\tum.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\usecases\\crearpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\usecases\\crearpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\dtos\\creardetallepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\dtos\\creardetallepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\estadotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\dtos\\crearpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\dtos\\crearpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\fakes\\fakepedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\fakes\\fakepedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\common\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\common\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\tum.unittests.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\tum.unittests.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|solutionrelative:src\\tum.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.api\\tum.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|solutionrelative:src\\tum.api\\tum.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\tum.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\tum.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\tum.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\tum.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,26 +123,302 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CrearEstadoTareaDtoValidator.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\Validators\\CrearEstadoTareaDtoValidator.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\Validators\\CrearEstadoTareaDtoValidator.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\Validators\\CrearEstadoTareaDtoValidator.cs",
+              "RelativeToolTip": "src\\TUM.Application\\Validators\\CrearEstadoTareaDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:51:24.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreaEstadoTareaValidatorTests.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\Validators\\CreaEstadoTareaValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\Validators\\CreaEstadoTareaValidatorTests.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\Validators\\CreaEstadoTareaValidatorTests.cs",
+              "RelativeToolTip": "tests\\TUM.UnitTests\\Validators\\CreaEstadoTareaValidatorTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:42:15.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrearEstadoTareaHandlerTests.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\UseCases\\CrearEstadoTareaHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\UseCases\\CrearEstadoTareaHandlerTests.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\UseCases\\CrearEstadoTareaHandlerTests.cs",
+              "RelativeToolTip": "tests\\TUM.UnitTests\\UseCases\\CrearEstadoTareaHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:41:36.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstadoTarea.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\EstadoTarea.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\EstadoTarea.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\EstadoTarea.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\EstadoTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:39:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrearPedidoHandlerTests.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\UseCases\\CrearPedidoHandlerTests.cs",
+              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\UseCases\\CrearPedidoHandlerTests.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\UseCases\\CrearPedidoHandlerTests.cs",
+              "RelativeToolTip": "tests\\TUM.UnitTests\\UseCases\\CrearPedidoHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:46:09.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CrearPedidoDTO.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\CrearPedidoDTO.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\DTOs\\CrearPedidoDTO.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\CrearPedidoDTO.cs",
+              "RelativeToolTip": "src\\TUM.Application\\DTOs\\CrearPedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:10:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TUM.UnitTests.csproj",
               "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
               "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
               "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
               "RelativeToolTip": "tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T19:45:34.301Z"
+              "WhenOpened": "2025-11-07T16:45:58.255Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TUM.UnitTests",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
-              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
-              "RelativeToolTip": "tests\\TUM.UnitTests\\TUM.UnitTests.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T19:45:37.27Z",
+              "DocumentIndex": 6,
+              "Title": "CrearDetallePedidoDTO.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\CrearDetallePedidoDTO.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\DTOs\\CrearDetallePedidoDTO.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\CrearDetallePedidoDTO.cs",
+              "RelativeToolTip": "src\\TUM.Application\\DTOs\\CrearDetallePedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:58:34.288Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrearPedidoHandler.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "RelativeToolTip": "src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:12:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FakePedidoRepository.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\Fakes\\FakePedidoRepository.cs",
+              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\Fakes\\FakePedidoRepository.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\Fakes\\FakePedidoRepository.cs",
+              "RelativeToolTip": "tests\\TUM.UnitTests\\Fakes\\FakePedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:09:23.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\Common\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\Common\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\Common\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "src\\TUM.Application\\Common\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:50:50.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Api\\Program.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Program.cs",
+              "RelativeToolTip": "src\\TUM.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T16:51:49.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TUM.UnitTests.csproj.Backup.tmp",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\TUM.UnitTests.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\TUM.UnitTests.csproj.Backup.tmp",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\TUM.UnitTests.csproj.Backup.tmp",
+              "RelativeToolTip": "tests\\TUM.UnitTests\\TUM.UnitTests.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-07T17:13:27.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TUM.Api.csproj",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\TUM.Api.csproj",
+              "RelativeDocumentMoniker": "src\\TUM.Api\\TUM.Api.csproj",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\TUM.Api.csproj",
+              "RelativeToolTip": "src\\TUM.Api\\TUM.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T16:49:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TUM.Application",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\TUM.Application.csproj",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\TUM.Application.csproj",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\TUM.Application.csproj",
+              "RelativeToolTip": "src\\TUM.Application\\TUM.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T16:49:51.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "src\\TUM.Application\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:34:32.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "src\\TUM.Application\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:58:22.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:40:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TUM.Application.csproj",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\TUM.Application.csproj",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\TUM.Application.csproj",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\TUM.Application.csproj",
+              "RelativeToolTip": "src\\TUM.Application\\TUM.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T22:00:58.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Producto.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:40:44.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Tarea.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Tarea.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Tarea.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:41:24.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Rol.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Rol.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:41:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\DetallePedido.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\DetallePedido.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:39:21.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:37:39.783Z"
             }
           ]
         }
