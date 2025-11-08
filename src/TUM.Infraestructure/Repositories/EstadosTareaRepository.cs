@@ -11,7 +11,7 @@ using TUM.Infrastructure.Persistence;
 
 namespace TUM.Infrastructure.Repositories
 {
-    internal class EstadosTareaRepository : IEstadoTareaRepository
+    public class EstadosTareaRepository : IEstadoTareaRepository
     {
         private AppDbContext _context;
 

@@ -8,7 +8,7 @@ using TUM.Domain.Entities;
 
 namespace TUM.Infrastructure.Persistence
 {
-    internal class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 

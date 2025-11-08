@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TUM.Application.DTOs;
 using TUM.Application.Validators;
 
-namespace TUM.UnitTests.Validators
+namespace TUM.UnitTests.Application.Validators
 {
     public class CreaEstadoTareaValidatorTests
     {

@@ -1,4 +1,4 @@
-﻿namespace TUM.UnitTests.UseCases;
+﻿namespace TUM.UnitTests.Application.UseCases;
 
 public class CrearPedidoHandlerTests
 {

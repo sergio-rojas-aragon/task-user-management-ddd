@@ -1,10 +1,8 @@
-﻿
-
-using TUM.Application.DTOs;
+﻿using TUM.Application.DTOs;
 using TUM.Application.UseCases;
 using TUM.UnitTests.Fakes;
 
-namespace TUM.UnitTests.UseCases
+namespace TUM.UnitTests.Application.UseCases
 {
     
     public class CrearEstadoTareaHandlerTests
