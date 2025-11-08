@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/src/TUM.Api/TUM.db-wal
+/src/TUM.Api/TUM.db-shm
+/src/TUM.Api/TUM.db
