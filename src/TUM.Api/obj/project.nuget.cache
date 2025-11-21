@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vuMmWjGgEUo=",
+  "dgSpecHash": "WmSM4UWjFe8=",
   "success": true,
   "projectFilePath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\TUM.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SergioRyzen\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\SergioRyzen\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.0\\fluentvalidation.dependencyinjectionextensions.12.1.0.nupkg.sha512",
     "C:\\Users\\SergioRyzen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\SergioRyzen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.21\\microsoft.aspnetcore.openapi.8.0.21.nupkg.sha512",
     "C:\\Users\\SergioRyzen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

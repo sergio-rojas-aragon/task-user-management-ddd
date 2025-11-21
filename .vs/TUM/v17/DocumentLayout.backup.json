@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\integrationtests\\infrastructure\\crearestadotarearepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\integrationtests\\infrastructure\\crearestadotarearepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|solutionrelative:src\\tum.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\tests\\tum.unittests\\integrationtests\\infrastructure\\databasetestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C893470-B78F-4C07-9722-090D1AE66588}|tests\\TUM.UnitTests\\TUM.UnitTests.csproj|solutionrelative:tests\\tum.unittests\\integrationtests\\infrastructure\\databasetestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.api\\tum.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|solutionrelative:src\\tum.api\\tum.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BBFC793-D871-4E47-B4AA-99689232D2A0}|src\\TUM.Infraestructure\\TUM.Infrastructure.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.infraestructure\\repositories\\estadostarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BBFC793-D871-4E47-B4AA-99689232D2A0}|src\\TUM.Infraestructure\\TUM.Infrastructure.csproj|solutionrelative:src\\tum.infraestructure\\repositories\\estadostarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BBFC793-D871-4E47-B4AA-99689232D2A0}|src\\TUM.Infraestructure\\TUM.Infrastructure.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.infraestructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BBFC793-D871-4E47-B4AA-99689232D2A0}|src\\TUM.Infraestructure\\TUM.Infrastructure.csproj|solutionrelative:src\\tum.infraestructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.api\\controllers\\estadostareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|solutionrelative:src\\tum.api\\controllers\\estadostareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TUM.Api",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\TUM.Api.csproj",
+              "RelativeDocumentMoniker": "src\\TUM.Api\\TUM.Api.csproj",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\TUM.Api.csproj",
+              "RelativeToolTip": "src\\TUM.Api\\TUM.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T21:34:38.369Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,54 +51,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatabaseTestBase.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\DatabaseTestBase.cs",
-              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\DatabaseTestBase.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\DatabaseTestBase.cs",
-              "RelativeToolTip": "tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\DatabaseTestBase.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Api\\Program.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Program.cs",
+              "RelativeToolTip": "src\\TUM.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T20:09:17.904Z",
+              "WhenOpened": "2025-11-08T21:11:18.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EstadosTareaRepository.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\Repositories\\EstadosTareaRepository.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Infraestructure\\Repositories\\EstadosTareaRepository.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\Repositories\\EstadosTareaRepository.cs",
-              "RelativeToolTip": "src\\TUM.Infraestructure\\Repositories\\EstadosTareaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Title": "EstadosTareaController.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Controllers\\EstadosTareaController.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Api\\Controllers\\EstadosTareaController.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Controllers\\EstadosTareaController.cs",
+              "RelativeToolTip": "src\\TUM.Api\\Controllers\\EstadosTareaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T20:01:05.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Infraestructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "src\\TUM.Infraestructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T19:58:28.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CrearEstadoTareaRepositoryTests.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\CrearEstadoTareaRepositoryTests.cs",
-              "RelativeDocumentMoniker": "tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\CrearEstadoTareaRepositoryTests.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\CrearEstadoTareaRepositoryTests.cs",
-              "RelativeToolTip": "tests\\TUM.UnitTests\\IntegrationTests\\Infrastructure\\CrearEstadoTareaRepositoryTests.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T19:56:32.845Z",
+              "WhenOpened": "2025-11-08T21:02:24.785Z",
               "EditorCaption": ""
             }
           ]
