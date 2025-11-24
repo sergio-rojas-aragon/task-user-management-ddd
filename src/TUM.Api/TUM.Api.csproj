@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TUM.Application\TUM.Application.csproj" />
-    <ProjectReference Include="..\TUM.Infraestructure\TUM.Infrastructure.csproj" />
+    <ProjectReference Include="..\TUM.Infrastructure\TUM.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

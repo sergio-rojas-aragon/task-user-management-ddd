@@ -20,7 +20,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\TUM.Application\TUM.Application.csproj" />
     <ProjectReference Include="..\..\src\TUM.Domain\TUM.Domain.csproj" />
-    <ProjectReference Include="..\..\src\TUM.Infraestructure\TUM.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\src\TUM.Infrastructure\TUM.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

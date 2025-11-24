@@ -35,8 +35,8 @@
               "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\TUM.Application.csproj": {
                 "projectPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\TUM.Application.csproj"
               },
-              "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\TUM.Infrastructure.csproj": {
-                "projectPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\TUM.Infrastructure.csproj"
+              "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\TUM.Infrastructure.csproj": {
+                "projectPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\TUM.Infrastructure.csproj"
               }
             }
           }
@@ -243,14 +243,14 @@
         }
       }
     },
-    "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\TUM.Infrastructure.csproj": {
+    "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\TUM.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\TUM.Infrastructure.csproj",
+        "projectUniqueName": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\TUM.Infrastructure.csproj",
         "projectName": "TUM.Infrastructure",
-        "projectPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\TUM.Infrastructure.csproj",
+        "projectPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\TUM.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\SergioRyzen\\.nuget\\packages\\",
-        "outputPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infraestructure\\obj\\",
+        "outputPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -296,6 +296,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.10, )"
@@ -309,6 +317,12 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.22, )"
             }
           },
           "imports": [
