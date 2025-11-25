@@ -19,14 +19,16 @@ namespace TUM.UnitTests.Infrastructure
         [Fact]
         public async Task AddAsync_DeberiaCrearEstadoTarea() {
 
-            var et = new EstadoTarea
+            var et = new EstadosTarea
             {
-                Nombre = "nuevo estado"
+                Nombre = "nuevo estado",
+                CreatedBy =  Guid.NewGuid().ToString(),
+                CreatedAt = DateTime.Now
             };
 
             //act
             await _repository.AddAsync(et);
-            var guardado = await _repository.GetByIdAsync(et.EstadoTareaId);
+            var guardado = await _repository.GetByIdAsync(et.EstadosTareaId);
 
             Assert.NotNull(guardado);
             

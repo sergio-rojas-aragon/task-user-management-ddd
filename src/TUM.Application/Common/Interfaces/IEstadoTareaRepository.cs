@@ -9,8 +9,8 @@ namespace TUM.Application.Common.Interfaces
 {
     public interface IEstadoTareaRepository
     {
-        Task AddAsync(EstadoTarea estadoTarea);
-        Task <EstadoTarea> GetByIdAsync(int id);
+        Task AddAsync(EstadosTarea estadoTarea);
+        Task <EstadosTarea> GetByIdAsync(int id);
 
     }
 }

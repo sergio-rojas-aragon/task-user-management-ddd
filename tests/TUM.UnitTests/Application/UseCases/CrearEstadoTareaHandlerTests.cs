@@ -1,5 +1,5 @@
 ﻿using TUM.Application.DTOs;
-using TUM.Application.UseCases;
+using TUM.Application.UseCases.EstadoTareaCases;
 using TUM.UnitTests.Fakes;
 
 namespace TUM.UnitTests.Application.UseCases
@@ -18,9 +18,10 @@ namespace TUM.UnitTests.Application.UseCases
                 Nombre = "nuevo estado"
             };
 
+            string userId = Guid.NewGuid().ToString();
             //Act
 
-            var estadoTareaId = await handler.Handle(dto);
+            var estadoTareaId = await handler.Handle(dto, userId);
 
             //Assert
             Assert.True(estadoTareaId > 0);

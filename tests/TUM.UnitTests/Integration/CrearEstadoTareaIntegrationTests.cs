@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TUM.Application.UseCases;
 using TUM.Domain.Entities;
 using TUM.Infrastructure.Repositories;
 using TUM.UnitTests.Infrastructure;
 using TUM.Application.DTOs;
 using Microsoft.EntityFrameworkCore;
+using TUM.Application.UseCases.EstadoTareaCases;
 
 namespace TUM.UnitTests.Integration
 {
@@ -33,12 +33,13 @@ namespace TUM.UnitTests.Integration
             };
 
             //Act
+            string UserId = Guid.NewGuid().ToString();
 
-            var resultId = await _handler.Handle(dto);
+            var resultId = await _handler.Handle(dto, UserId);
 
             //Assert
 
-            var estadoTarea = await _context.EstadosTarea.FirstOrDefaultAsync(et => et.EstadoTareaId == resultId);
+            var estadoTarea = await _context.EstadosTarea.FirstOrDefaultAsync(et => et.EstadosTareaId == resultId);
 
             Assert.NotNull(estadoTarea);
             Assert.Equal(dto.Nombre,estadoTarea.Nombre);

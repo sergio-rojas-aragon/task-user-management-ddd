@@ -11,20 +11,20 @@ namespace TUM.UnitTests.Fakes
 {
     internal class FakeEstadoTareaRepository : IEstadoTareaRepository
     {
-        private readonly List<EstadoTarea> _estadoTareas = new();
-        public Task AddAsync(EstadoTarea estadoTarea)
+        private readonly List<EstadosTarea> _estadoTareas = new();
+        public Task AddAsync(EstadosTarea estadoTarea)
         {
-            estadoTarea.EstadoTareaId = _estadoTareas.Count + 1;
+            estadoTarea.EstadosTareaId = _estadoTareas.Count + 1;
             _estadoTareas.Add(estadoTarea);
             return Task.CompletedTask;
         }
 
-        public Task<EstadoTarea> GetByIdAsync(int id)
+        public Task<EstadosTarea> GetByIdAsync(int id)
         {
-            return Task.FromResult(_estadoTareas.FirstOrDefault(p => p.EstadoTareaId == id));
+            return Task.FromResult(_estadoTareas.FirstOrDefault(p => p.EstadosTareaId == id));
         }
 
-        public List<EstadoTarea> GetAll()
+        public List<EstadosTarea> GetAll()
         {
             return _estadoTareas;
 

@@ -20,8 +20,8 @@ namespace TUM.Domain.Entities
         public DateTime? LastModifiedAt { get; set; }
 
         //estado
-        public int EstadoTareaId { get; set; }
-        public EstadoTarea estadoTarea { get; set; } = null!;
+        public int EstadosTareaId { get; set; }
+        public EstadosTarea estadosTarea { get; set; } = null!;
 
         //cliente
         public int ClienteId { get; set; }

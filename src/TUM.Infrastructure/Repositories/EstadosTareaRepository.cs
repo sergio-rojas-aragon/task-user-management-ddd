@@ -20,15 +20,15 @@ namespace TUM.Infrastructure.Repositories
             _context = context;
 
         }
-        public async Task AddAsync(EstadoTarea estadoTarea)
+        public async Task AddAsync(EstadosTarea estadoTarea)
         {
             await _context.EstadosTarea.AddAsync(estadoTarea);
             await _context.SaveChangesAsync();
         }
 
-        public async Task<EstadoTarea> GetByIdAsync(int id)
+        public async Task<EstadosTarea> GetByIdAsync(int id)
         {
-            return await _context.EstadosTarea.FirstOrDefaultAsync(p => p.EstadoTareaId == id);
+            return await _context.EstadosTarea.FirstOrDefaultAsync(p => p.EstadosTareaId == id);
 
         }
     }

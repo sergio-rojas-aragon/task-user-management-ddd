@@ -1,7 +1,7 @@
 using FluentValidation;
 using Microsoft.AspNetCore.Identity;
 using TUM.Application.Common.Interfaces;
-using TUM.Application.UseCases;
+using TUM.Application.UseCases.EstadosTarea;
 using TUM.Application.Validators;
 using TUM.Infrastructure;
 using TUM.Infrastructure.Persistence;
