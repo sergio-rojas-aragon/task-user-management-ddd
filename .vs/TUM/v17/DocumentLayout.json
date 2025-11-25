@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|solutionrelative:src\\tum.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052D506B-09C4-437F-A26B-343190F0E453}|src\\TUM.Api\\TUM.Api.csproj|solutionrelative:src\\tum.api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\usecases\\crearpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\usecases\\crearpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,27 +23,19 @@
       "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|solutionrelative:src\\tum.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.infrastructure\\persistence\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|solutionrelative:src\\tum.infrastructure\\persistence\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\source\\net\\GestionTareasUsuarios\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.application\\usecases\\crearpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BB2E9B-A29E-4C17-BBB4-3ABC30BCE039}|src\\TUM.Application\\TUM.Application.csproj|solutionrelative:src\\tum.application\\usecases\\crearpedidohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|solutionrelative:src\\tum.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.infrastructure\\identity\\appidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|solutionrelative:src\\tum.infrastructure\\identity\\appidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.infrastructure\\persistence\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6839B0D0-56EB-C5B8-E112-BD472A4E272B}|src\\TUM.Infrastructure\\TUM.Infrastructure.csproj|solutionrelative:src\\tum.infrastructure\\persistence\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{586D0FC8-5A99-4ED9-AF78-63C0417627CE}|src\\TUM.Domain\\TUM.Domain.csproj|h:\\source\\net\\gestiontareasusuarios\\task-user-management-ddd\\src\\tum.domain\\entities\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,99 +49,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Cliente.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Cliente.cs",
-              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:35:22.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs*",
-              "RelativeToolTip": "src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:07:34.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppIdentityUser.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Identity\\AppIdentityUser.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Infrastructure\\Identity\\AppIdentityUser.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Identity\\AppIdentityUser.cs",
-              "RelativeToolTip": "src\\TUM.Infrastructure\\Identity\\AppIdentityUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:05:14.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\ApplicationUser.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "src\\TUM.Domain\\Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:57:22.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CrearPedidoHandler.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
-              "RelativeToolTip": "src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:38:27.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Tarea.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Tarea.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Tarea.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Tarea.cs",
-              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:33:30.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Pedido.cs",
-              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Pedido.cs",
-              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Pedido.cs",
-              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:27:13.173Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -164,20 +73,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Api\\Controllers\\PedidoController.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Api\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "src\\TUM.Api\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:56:37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Producto.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:56:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:35:22.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "src\\TUM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:07:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearPedidoHandler.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "RelativeToolTip": "src\\TUM.Application\\UseCases\\CrearPedidoHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:38:27.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Tarea.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Tarea.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Tarea.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:33:30.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "src\\TUM.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "src\\TUM.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:27:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuthDbContext.cs",
               "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Persistence\\AuthDbContext.cs",
               "RelativeDocumentMoniker": "src\\TUM.Infrastructure\\Persistence\\AuthDbContext.cs",
               "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\src\\TUM.Infrastructure\\Persistence\\AuthDbContext.cs",
               "RelativeToolTip": "src\\TUM.Infrastructure\\Persistence\\AuthDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T20:01:13.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "README.md",
               "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\task-user-management-ddd\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -190,13 +190,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Readme.md",
               "DocumentMoniker": "H:\\source\\net\\GestionTareasUsuarios\\Readme.md",
               "RelativeDocumentMoniker": "..\\Readme.md",
               "ToolTip": "H:\\source\\net\\GestionTareasUsuarios\\Readme.md",
               "RelativeToolTip": "..\\Readme.md",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwD0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-11-24T19:49:01.174Z",
               "EditorCaption": ""

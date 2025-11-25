@@ -20,6 +20,8 @@ namespace TUM.Application.UseCases
             {
                 ClienteId = dto.ClienteId,
                 //UsuarioId = dto.UsuarioId,
+                CreatedAt = dto.CreatedAt,
+                CreatedBy = dto.CreatedBy,
                 Fecha = DateTime.Now
             };
 
