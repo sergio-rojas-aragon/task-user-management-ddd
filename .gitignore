@@ -366,3 +366,4 @@ FodyWeavers.xsd
 /src/TUM.Api/TUM.db
 .vs/
 src/TUM.Domain/obj/
+**/obj/Debug/
