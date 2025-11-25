@@ -25,7 +25,7 @@ namespace TUM.Domain.Entities
 
         //cliente
         public int ClienteId { get; set; }
-        public Cliente Cliente { get; set; } = null!;
+        public Client Cliente { get; set; } = null!;
 
         // pedido
         public int PedidoId { get; set; }

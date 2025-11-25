@@ -15,7 +15,7 @@ namespace TUM.Infrastructure.Persistence
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<EstadosTarea> EstadosTarea => Set<EstadosTarea>();
-        public DbSet<Cliente> Clientes => Set<Cliente>(); 
+        public DbSet<Client> Clientes => Set<Client>(); 
         public DbSet<DetallePedido> DetallePedidos => Set<DetallePedido>();
         public DbSet<Pedido> Pedidos => Set<Pedido>();
         public DbSet<Producto> Productos => Set<Producto>();

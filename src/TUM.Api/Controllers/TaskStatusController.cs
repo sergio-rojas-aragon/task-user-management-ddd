@@ -2,8 +2,10 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
+using System.Threading.Tasks;
 using TUM.Application.Common.Interfaces;
 using TUM.Application.DTOs;
+using TUM.Application.UseCases.ClientCases;
 using TUM.Application.UseCases.EstadoTareaCases;
 
 
@@ -11,15 +13,17 @@ namespace TUM.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EstadosTareaController : ControllerBase
+    public class TaskStatusController : ControllerBase
     {
         private CrearEstadoTareaHandler _handler;
+        private ListTaskStatusesHandler _list;
 
-        public EstadosTareaController(
-            CrearEstadoTareaHandler handler
+        public TaskStatusController(
+            CrearEstadoTareaHandler handler, ListTaskStatusesHandler listHandler
             )
         {
             _handler = handler;
+            _list = listHandler;
         }
 
         [Authorize]
@@ -41,12 +45,10 @@ namespace TUM.Api.Controllers
         }
    
         [HttpGet]
-        public IActionResult GetTareas()
+        public async Task<IActionResult> Get()
         {
-            var userId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-
-            var a = new string[] { "value1", "value2" };
-            return Ok(a);
+            var result = await _list.Handle();
+            return Ok(result);
         }
     }
 }

@@ -29,5 +29,10 @@ namespace TUM.UnitTests.Fakes
             return _estadoTareas;
 
         }
+
+        public Task<List<EstadosTarea?>> GetAsync()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

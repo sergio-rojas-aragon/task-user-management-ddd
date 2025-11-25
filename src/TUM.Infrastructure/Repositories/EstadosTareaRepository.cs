@@ -26,6 +26,11 @@ namespace TUM.Infrastructure.Repositories
             await _context.SaveChangesAsync();
         }
 
+        public async Task<List<EstadosTarea?>> GetAsync()
+        {
+            return await _context.EstadosTarea.ToListAsync();
+        }
+
         public async Task<EstadosTarea> GetByIdAsync(int id)
         {
             return await _context.EstadosTarea.FirstOrDefaultAsync(p => p.EstadosTareaId == id);

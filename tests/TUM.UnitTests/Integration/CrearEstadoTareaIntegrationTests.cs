@@ -9,6 +9,7 @@ using TUM.UnitTests.Infrastructure;
 using TUM.Application.DTOs;
 using Microsoft.EntityFrameworkCore;
 using TUM.Application.UseCases.EstadoTareaCases;
+using TUM.Application.UseCases.ClientCases;
 
 namespace TUM.UnitTests.Integration
 {
