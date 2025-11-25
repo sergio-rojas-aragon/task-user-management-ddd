@@ -12,9 +12,10 @@ namespace TUM.Domain.Entities
 
         public decimal Precio { get; set; }
 
-        public DateTime fechaCreacion { get; set; }
-
-        public DateTime fechaActualizacion { get; set; } 
+        public string CreatedBy { get; set; } = null!;
+        public DateTime CreatedAt { get; set; }
+        public string? LastModified { get; set; }
+        public DateTime? LastModifiedAt { get; set; }
 
         public ICollection<DetallePedido> DetallePedidos { get; set; } = new List<DetallePedido>();
 

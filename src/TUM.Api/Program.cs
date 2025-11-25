@@ -1,17 +1,20 @@
+using FluentValidation;
+using Microsoft.AspNetCore.Identity;
 using TUM.Application.Common.Interfaces;
 using TUM.Application.UseCases;
-using TUM.Infrastructure;
-using TUM.Infrastructure.Repositories;
-using FluentValidation;
 using TUM.Application.Validators;
+using TUM.Infrastructure;
+using TUM.Infrastructure.Persistence;
+using TUM.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
-// Infraestructura (EF Core + repositorios)
+// el setter de esto esta en la clase de infraestructura dependencyinjection
 builder.Services.AddInfrastructure(
     builder.Configuration.GetConnectionString("DefaultConnection")!
 );
+
 
 // inyeccion de dependencias
 builder.Services.AddScoped<IEstadoTareaRepository, EstadosTareaRepository>();
@@ -23,11 +26,14 @@ builder.Services.AddValidatorsFromAssemblyContaining<CrearEstadoTareaDtoValidato
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
+// Identity
+builder.Services.AddAuthorization();
 
 //------------------------------------- APP -------------------
 
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -37,6 +43,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Endpoints automáticos de Identity
+app.MapIdentityApi<IdentityUser>();
+
 app.MapControllers();
 app.Run();
 
