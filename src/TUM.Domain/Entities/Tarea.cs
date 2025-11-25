@@ -14,8 +14,10 @@ namespace TUM.Domain.Entities
         // claves foraneas
 
         // usuario
-        public int UsuarioId { get; set; }
-        public Usuario Usuario { get; set; } = null!;
+        public string CreatedBy { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public string? LastModified { get; set; }
+        public DateTime? LastModifiedAt { get; set; }
 
         //estado
         public int EstadoTareaId { get; set; }

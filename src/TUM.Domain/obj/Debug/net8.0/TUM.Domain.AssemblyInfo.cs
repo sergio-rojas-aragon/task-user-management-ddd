@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TUM.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47769eeea900242a92c72ace82edf61ea79067ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96f40da56e114eafe6826524272211e0bb23bdf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TUM.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TUM.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

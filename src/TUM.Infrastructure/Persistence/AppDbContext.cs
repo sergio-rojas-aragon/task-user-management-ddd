@@ -1,10 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TUM.Domain.Entities;
+
 
 namespace TUM.Infrastructure.Persistence
 {
@@ -13,19 +15,31 @@ namespace TUM.Infrastructure.Persistence
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<EstadoTarea> EstadosTarea => Set<EstadoTarea>();
+        public DbSet<Cliente> Clientes => Set<Cliente>(); 
+        public DbSet<DetallePedido> DetallePedidos => Set<DetallePedido>();
+        public DbSet<Pedido> Pedidos => Set<Pedido>();
+        public DbSet<Producto> Productos => Set<Producto>();
+        public DbSet<Tarea> Tareas => Set<Tarea>();
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+           
+            // evito el intento de duplicacion de aspnetusers
+            
+            modelBuilder.Entity<IdentityUser>()
+    .           ToTable("AspNetUsers", t => t.ExcludeFromMigrations());
+
             base.OnModelCreating(modelBuilder);
 
-            // Aca se crea el modelo
 
-            //Relaciones EstadoTarea => Tarea (1:N)
+            // creo la relacion entre pedido y aspnetusers
 
-            //modelBuilder.Entity<EstadoTarea>().HasMany(p=> p.Tareas).WithOne().HasForeignKey(i=> i.EstadoTareaId);
-
-            ////clave primaria autoincremental
-            //modelBuilder.Entity<EstadoTarea>().Property(p => p.EstadoTareaId).ValueGeneratedOnAdd();
+            modelBuilder.Entity<Pedido>()
+                .HasOne<IdentityUser>() // sin navegación en dominio
+                .WithMany()
+                .HasForeignKey(p => p.CreatedBy)
+                .OnDelete(DeleteBehavior.Restrict);
 
         }
     }

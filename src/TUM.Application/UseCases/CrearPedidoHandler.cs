@@ -19,7 +19,7 @@ namespace TUM.Application.UseCases
             var pedido = new Pedido
             {
                 ClienteId = dto.ClienteId,
-                UsuarioId = dto.UsuarioId,
+                //UsuarioId = dto.UsuarioId,
                 Fecha = DateTime.Now
             };
 

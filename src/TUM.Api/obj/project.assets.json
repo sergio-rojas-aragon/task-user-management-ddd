@@ -1432,6 +1432,9 @@
       "TUM.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.Identity.Stores": "8.0.22"
+        },
         "compile": {
           "bin/placeholder/TUM.Domain.dll": {}
         },
